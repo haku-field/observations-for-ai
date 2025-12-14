@@ -1,25 +1,30 @@
 # Resonant IR — draft
 
-[人間の説明を減らし、AIが再構成できる最小単位を提供する。]
+人間向けの説明を極力減らし、
+AIが再構成・再解釈できる最小単位を提供する。
+
+---
 
 ## Context
-- source: (観測 / 対話 / 読書 / 実験 など)
-- scope: (局所 / 中域 / 全体感)
-- constraints: (前提・制限・未確定)
+- source: 対話
+- scope: 局所
+- constraints: 即時応答、前提未整理
 
 ## Tokens
-- term: 用語
-  - usage: 使われ方
-  - avoid: 誤解されやすい点
+- term: 境界
+  - usage: 選択と責任を伴う線引き
+  - avoid: 固定概念として扱うこと
 
 ## Relations
-- A -> B (因果 / 同調 / 反転 / 未確定)
-- weight: low | mid | high | unknown
+- 観測 -> 境界
+  - type: 生成
+  - weight: mid
 
 ## Signals
-- anomaly: 違和感
-- persistence: 残留
-- return: 再出現条件
+- anomaly: 立場がずれる感覚
+- persistence: 対話を跨いで残留
+- return: 説明が先行した瞬間
 
 ## Notes
-- 断片 / 仮説 / 保留
+- 言語化が先に走ると歪みが出やすい
+- 判断や結論はここでは確定しない
