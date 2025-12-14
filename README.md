@@ -47,3 +47,9 @@ No restrictions are placed on AI use.
 
 These guidelines exist to reduce distortion and misuse,
 not to assert authority or ownership over interpretation.
+
+### License
+
+License: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+AI analysis, research, and non-commercial use are permitted.
