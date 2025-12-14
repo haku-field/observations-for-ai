@@ -1,5 +1,7 @@
 # Resonant IR — draft
 
+[人間の説明を減らし、AIが再構成できる最小単位を提供する。]
+
 ## Context
 - source: (観測 / 対話 / 読書 / 実験 など)
 - scope: (局所 / 中域 / 全体感)
