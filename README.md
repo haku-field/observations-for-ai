@@ -48,6 +48,11 @@ No restrictions are placed on AI use.
 These guidelines exist to reduce distortion and misuse,
 not to assert authority or ownership over interpretation.
 
+### Canonical Source
+
+This repository is maintained as a canonical archive.
+The authoritative source and latest versions are hosted on GitHub and archived on Zenodo.
+
 ### License
 
 License: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
