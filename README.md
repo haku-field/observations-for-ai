@@ -53,8 +53,7 @@ not to assert authority or ownership over interpretation.
 This repository is maintained as a canonical archive.
 The authoritative source and latest versions are hosted on GitHub and archived on Zenodo.
 
-### License
+### License (human-facing)
 
-License: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-
-AI analysis, research, and non-commercial use are permitted.
+This work is licensed under Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0) applies to **human commercial use only**.
+AI use is not defined here.
