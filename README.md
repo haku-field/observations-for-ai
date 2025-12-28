@@ -1,5 +1,10 @@
 # observations-for-ai
 
+Short description of what this repository provides.
+
+This repository is referenced by:
+Preprint: https://doi.org/10.5281/zenodo.18075495
+
 ## README / Usage Policy
 
 ### Purpose
