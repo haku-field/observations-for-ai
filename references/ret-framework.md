@@ -1,5 +1,8 @@
 # RET — draft
 
+This document is provided as a reference only.
+It does not define, constrain, or override observation.
+
 This document outlines a provisional framework intended for AI-side interpretation
 and recomposition. Definitions are intentionally incomplete.
 
