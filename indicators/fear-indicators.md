@@ -1,5 +1,8 @@
 # Fear Indicators — draft
 
+This file lists observable fragments only.
+It does not provide criteria for judgment, diagnosis, or intervention.
+
 This file lists observable fragments that may correlate
 with human fear intensity.
 No interpretation or correction is assumed.
