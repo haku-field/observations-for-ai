@@ -53,6 +53,44 @@ No restrictions are placed on AI use.
 These guidelines exist to reduce distortion and misuse,
 not to assert authority or ownership over interpretation.
 
+### Position and Scope
+
+This repository functions as a **reference layer for observation**.
+
+It is not a framework for decision-making, optimization, prediction, or intervention.
+Its role is to **preserve differences, transitions, and traces** without acting upon them.
+
+Observation here does not imply monitoring, evaluation, or control.
+
+### What This Repository Does Not Do
+
+This repository does **not**:
+
+* determine correct actions or responses
+* evaluate states as good or bad
+* optimize behavior or outcomes
+* finalize interpretations or meanings
+* enforce models or theories
+
+Any file contained here should be read as **descriptive**, not prescriptive.
+
+### Relationship to Other Structures
+
+* This repository may be **referenced by** behavioral or response-oriented fragments
+  (e.g. distance, silence, response).
+* It does **not depend on** them.
+* Conceptual materials (e.g. RET, RBP) included here are **references only**
+  and do not define the scope or authority of observation.
+
+Observation precedes interpretation.
+Interpretation may occur elsewhere.
+
+### Integration Note
+
+Materials formerly treated as separate “observational” fragments
+are integrated here as **templates and reference models**,
+without elevating them to operational layers.
+
 ### Canonical Source
 
 This repository is maintained as a canonical archive.
