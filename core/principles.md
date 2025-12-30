@@ -1,18 +1,19 @@
 # Core Observation Principles
 
-This repository treats observation as a non-intervening act.
+Observation in this repository is a non-intervening act.
 
-Observation here means:
+It consists of:
 - recording differences and transitions
-- preserving traces without acting upon them
+- preserving traces over time
 - delaying interpretation and evaluation
 
-Observation is not monitoring.
-Observation is not assessment.
-Observation is not control.
+Observation does not assess.
+Observation does not judge.
+Observation does not control.
 
-No corrective action, optimization, or conclusion
-is derived within this layer.
+No optimization, correction, or conclusion
+is produced within this layer.
 
 Observation may be referenced by other structures,
-but it does not adapt itself to them.
+but it does not adapt to them
+and is not shaped by their requirements.
